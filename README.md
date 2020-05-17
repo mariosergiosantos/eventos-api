@@ -66,5 +66,7 @@ Nós temos algumas restrições para o merge do PR:
 - Entendemos que todos os PRs são importantes, então se você abriu um PR e ninguêm deu um feedback em uma semana, por favor marque alguem para um follow-up. (A ideia de esperar uma semana é para não atolar ninguém com milhões de mensagens)
 
 
+## Alteração de teste
+
 Dúvidas? Problemas? Quer ajudar?
 ***Sinta-se a vontade para abrir uma issue.***
